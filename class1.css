@@ -1,0 +1,33 @@
+.one{
+    color: brown;
+    font-weight: bold;
+}
+
+#paraone{
+    color: burlywood;
+    font: larger;
+}
+
+li>a{
+    color:darkgreen;
+    font-weight: 600;
+}
+p+a{
+    color: darkmagenta;
+}
+li{
+color: darkolivegreen;
+
+}
+
+/* a{
+    margin-left: inherit;
+    color: lawngreen;
+}*/
+/*p{
+    margin-left: 19px;
+    color: lawngreen;
+}*/
+p~a{
+    color: brown;
+}
